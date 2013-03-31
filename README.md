@@ -1,4 +1,4 @@
-semver.java
+semver.java [![Build Status](https://travis-ci.org/jknack/semver.java.png?branch=master)](https://travis-ci.org/jknack/semver.java)
 ===========
 
 A Java Implementation of http://semver.org/
