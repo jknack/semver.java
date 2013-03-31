@@ -184,9 +184,6 @@
           <mavenExecutorId>forked-path</mavenExecutorId>
           <useReleaseProfile>false</useReleaseProfile>
           <arguments>-Psonatype-oss-release</arguments>
-          <autoVersionSubmodules>true</autoVersionSubmodules>
-          <tagNameFormat>v@{project.version}</tagNameFormat>
-          <scmCommentPrefix>release</scmCommentPrefix>
         </configuration>
       </plugin>
 
